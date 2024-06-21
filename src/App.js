@@ -35,6 +35,16 @@ const App = () => {
             </div>
         </section>
     </main>
+    <main>
+    <section className="hero">
+        <h1>Cambios</h1>
+        <h2>Titulo</h2>
+        <p>
+          Luis Manuel Sanchez Marin
+        </p>
+        <button className="discover-button">Perron</button>
+      </section>
+    </main>
       </>      
   );
 };
